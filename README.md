@@ -54,7 +54,7 @@ Install commands to install built system, compilers, testing environment, etc..
 how to stuff -- like building the software, compilation commands, configurations, etc.
 
 ## Documentation
-Documentation for the project can be found in Docs folder in the project. 
+Documentation for the project can be found in [Docs](docs) folder in the project. 
 
 ## Need Help?
 If you need help or have any questions, please file a Github issue or contact [Authors](#authors) 
